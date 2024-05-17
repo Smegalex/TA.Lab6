@@ -101,3 +101,5 @@ else:
         sys.exit(1)
 
     cycle(input_file, output_file, target_sum)
+
+# python "D:\КПІ\ТА. Лабораторні\TA.Lab6\task2.py" "D:\КПІ\ТА. Лабораторні\TA.Lab6\examples\input_10a.txt" "D:\КПІ\ТА. Лабораторні\TA.Lab6\results\output_10a.txt" 9
